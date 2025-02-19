@@ -11,7 +11,7 @@
 &ensp; Este teste é para verificar se o get idade retorna a idade estabelecida no código, que no caso é 18 anos. 
 
 <p align="center">
-  <img src="/assets/setIdade.png">
+  <img src="/assets/SetIdade (2).png">
 </p>
 
 &ensp; Este teste é para verificar se o set idade retorna a nova idade enviada, no caso, testei com a idade 12 e assim que apertei o get idade, ele me retornou 12.
